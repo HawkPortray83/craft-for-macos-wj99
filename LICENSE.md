@@ -1,4 +1,4 @@
-#  
+#  advanced Craft for macOS Script | quick search + OCR scanning is the best Craft for macOS script, featuring quick search and OCR scanning. Safe, efficient, and optimized for macOS
 
 
 
